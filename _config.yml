@@ -1,0 +1,13 @@
+title: Tae-Hyun Kim
+email: kth95@kaist.ac.kr
+description: >
+  Origami Structures, Deployable Systems, Space Applications
+baseurl: ""
+url: "https://TH-kim95.github.io"
+theme: jekyll-theme-slate
+
+header_pages:
+  - index.md
+  - research.md
+  - publications.md
+  - contact.md
